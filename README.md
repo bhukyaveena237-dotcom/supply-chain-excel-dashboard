@@ -16,7 +16,7 @@ This project focuses on analyzing sales performance and delivery efficiency usin
 - Added slicers for dynamic filtering and better user interaction
 
 ## 📷 Dashboard Preview
-![Dashboard]([PASTE-YOUR-IMAGE-LINK-HERE](https://raw.githubusercontent.com/bhukyaveena237-dotcom/supply-chain-excel-dashboard/d6e97b1ce931256f54eef7a71864e7213f286cb6/Dashboard_Preview.png.png)
+![Dashboard](https://raw.githubusercontent.com/bhukyaveena237-dotcom/supply-chain-excel-dashboard/d6e97b1ce931256f54eef7a71864e7213f286cb6/Dashboard_Preview.png.png)
 
 ## 🔍 Key Insights
 - Identified top-performing regions in terms of sales
